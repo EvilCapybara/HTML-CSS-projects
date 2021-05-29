@@ -1,0 +1,34 @@
+div{
+    background-color: #f29e7f;
+    width: 1110px;
+    height: 60vh;
+    margin: 100px auto;
+    text-align: center;
+    padding: 50px;
+    box-sizing: border-box;
+    padding-top: 20vh;
+    box-shadow: 0px 7px 20px #d13131;
+    
+
+}
+
+h1{
+    margin-top: 0px;
+    font-family: serif;
+    color: #5237e3;
+    font-size: 36px;
+   
+}
+
+p{
+    
+    font-family: monospace;
+    font-weight: 100;
+    font-size: 1.3em;
+    color: #3420c9;
+    
+}
+
+img{
+    margin: 0 5px;
+}
